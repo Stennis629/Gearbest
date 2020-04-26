@@ -4,7 +4,7 @@ Online Shopping Website Theme
 
 ## Getting Started
 
-Download zip or clone to get started with theme. [Preview Online](https://jeff-ops.github.io/Gearbest/)
+Download zip or clone to get started with theme.
 
 ## Built With
 

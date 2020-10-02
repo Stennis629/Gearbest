@@ -8,9 +8,11 @@ Download zip or clone to get started with theme.
 
 ## Built With
 
-* HTML
-* CSS
-* JS
+  I  HTML
+
+ II  CSS
+
+III  JS
 
 ## Contributors
 
